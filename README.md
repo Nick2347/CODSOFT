@@ -11,4 +11,5 @@ user input: Either Rock or paper or scissor
 computer choice: Either Rock or paper or scissor
 there are three possibilites:- either the user wins or the computer wins else there is a draw.
 3.TODO LIST:-
+Here,we have created a simple program in which we have several textboxes to note the name of tasks and corresponding checkboxes to check.If the tasks are completed by the user,the user will tick the tasks. It also consists of a button which completes all the tasks and closes the gui window.
 
